@@ -28,6 +28,19 @@
 .du-mb-9 {
   margin-bottom: 9px;
 }
+
+.du-mt-25 {
+  margin-top: 25px;
+}
+
+.du-mt-14 {
+  margin-top: 14px;
+}
+
+.du-mb-n-5 {
+  margin-bottom: -5px;
+}
+
 /* Projects */
 .du-projects-desc-text,
 .du-projects-desc-text:hover {
