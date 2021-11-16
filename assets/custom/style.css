@@ -1,0 +1,31 @@
+.du-nav-bg-clr {
+  background-color: #1053b7;
+}
+.du-projects-desc-text,
+.du-projects-desc-text:hover {
+  text-decoration: none;
+  color: #212529;
+}
+
+.du-card-img {
+  object-fit: fill;
+}
+
+.du-card-shadow {
+  padding: 6px;
+  margin: 6px;
+  box-shadow: 0px 0px 16px 0px rgba(16, 83, 183, 1);
+}
+
+.du-hgt-250 {
+  height: 250px;
+}
+
+.du-bg-yellow {
+  background-color: yellow;
+}
+
+.du-projects-mg-x {
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
