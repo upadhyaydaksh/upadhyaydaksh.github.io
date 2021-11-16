@@ -41,6 +41,11 @@
   margin-bottom: -5px;
 }
 
+ul li {
+  list-style-position: outside;
+  margin-left: 1em;
+}
+
 /* Home */
 .du-intro-txt {
   font-size: xxx-large;
@@ -139,6 +144,18 @@
 
 .du-about-img {
   width: 263px;
+  border: 1px #555;
+  border-style: solid;
+}
+
+/* Project Detail */
+.du-screens-container {
+  margin-right: -7px;
+  margin-left: -7px;
+}
+
+.du-project-img {
+  width: 100%;
   border: 1px #555;
   border-style: solid;
 }
