@@ -41,6 +41,16 @@
   margin-bottom: -5px;
 }
 
+/* Home */
+.du-intro-txt {
+  font-size: xxx-large;
+}
+
+.du-intro-img {
+  height: 100%;
+  width: 100%;
+}
+
 /* Projects */
 .du-projects-desc-text,
 .du-projects-desc-text:hover {
@@ -128,7 +138,7 @@
 }
 
 .du-about-img {
-  width: 150px;
+  width: 263px;
   border: 1px #555;
   border-style: solid;
 }
