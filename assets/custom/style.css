@@ -2,8 +2,16 @@
   background-color: #1053b7;
 }
 
+.du-theme-bg-clr {
+  background-color: #1053b7;
+}
+
 .du-theme-txt-clr {
   color: #1053b7;
+}
+
+.du-mt-10 {
+  margin-top: 10px;
 }
 
 .du-hgt-250 {
