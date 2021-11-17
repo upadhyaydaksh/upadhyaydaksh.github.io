@@ -46,6 +46,14 @@ ul li {
   margin-left: 1em;
 }
 
+.du-hgt-400 {
+  height: 400px;
+}
+
+.du-hgt-500 {
+  height: 500px;
+}
+
 /* Home */
 .du-intro-txt {
   font-size: xxx-large;
@@ -71,14 +79,6 @@ ul li {
   padding: 6px;
   margin: 6px;
   box-shadow: 0px 0px 16px 0px rgba(16, 83, 183, 1);
-}
-
-.du-hgt-250 {
-  height: 250px;
-}
-
-.du-bg-yellow {
-  background-color: yellow;
 }
 
 .du-projects-mg-x {
@@ -155,7 +155,7 @@ ul li {
 }
 
 .du-project-img {
-  width: 100%;
+  width: 331px;
   border: 1px #555;
   border-style: solid;
 }
