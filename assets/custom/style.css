@@ -76,6 +76,10 @@ body {
   max-width: 50%;
 }
 
+.du-fs-l {
+  font-size: large;
+}
+
 /* Home */
 .du-intro-txt {
   font-size: xxx-large;
